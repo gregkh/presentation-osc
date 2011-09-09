@@ -4,15 +4,30 @@
 [text-align=left]
 #[bg.jpg]
 
-- [top] [text-align=center]
+- [top] [text-align=center][font=FifthLeg 190px]
 <b>
-<span size='large'>The Stable Linux
-Kernel Tree</span>
+<span size='large' foreground='green'>openSUSE
+Tumbleweed</span>
 </b>
 
 
-<span foreground='yellow' size='x-small'>Greg Kroah-Hartman</span>
-<span size='xx-small'><tt>gregkh@suse.de</tt></span>
+<span font="Sans Bold" foreground='yellow' size='x-small'>Greg Kroah-Hartman</span>
+<span font="Bold" size='xx-small'><tt>gregkh@suse.de</tt></span>
+
+-- [images/t1.jpg] [text-align=center] [duration=5.757168]
+some text
+
+rolling on...
+
+-- [images/t2.jpg] [text-align=right] [top-right]
+some text
+
+rolling on...
+
+-- [images/t3.jpg] [text-align=right] [top-left]
+some text
+
+rolling on...
 
 -
 <b><span size='large'><tt>stable_kernel_rules.txt </tt></span></b>
