@@ -1,8 +1,9 @@
 #!/usr/bin/env pinpoint
-[font=Sans 50px]
+[font="Bitstream Charter" 70px]
 [top]
 [text-align=left]
 #[bg.jpg]
+[shading-opacity=0.000000]
 
 - [top] [text-align=center][font=FifthLeg 190px]
 <b>
@@ -13,6 +14,35 @@ Tumbleweed</span>
 
 <span font="Sans Bold" foreground='yellow' size='x-small'>Greg Kroah-Hartman</span>
 <span font="Bold" size='xx-small'><tt>gregkh@suse.de</tt></span>
+
+
+-- [white] [text-color=black]
+<span font="bitstream charter" size="large" >
+Linux kernel statistics
+</span>
+
+-- [white] [text-color=black]
+<span font="bitstream charter" size="large" >
+       36.782 files
+14.647.033 lines
+</span>
+
+-- [white] [text-color=black]
+<span font="bitstream charter" size="large" >
+9.900 lines added
+6.800 lines removed
+2.200 lines changed
+</span>
+
+-- [white] [text-color=black]
+<span font="bitstream charter" size="large" >
+5,78 changes per hour
+</span>
+
+-- [white] [text-color=black]
+<span font="bitstream charter" size="large" >
+5,78 changes per hour
+</span>
 
 -- [images/t1.jpg] [text-align=center] [duration=5.757168]
 some text
