@@ -41,8 +41,38 @@ Linux kernel statistics
 
 -- [white] [text-color=black]
 <span font="bitstream charter" size="large" >
-5,78 changes per hour
-</span>
+2.831 developers
+   320 companies</span>
+
+-- [images/factory.jpg] [text-color=black]
+<span font="bitstream charter" size="xx-large"><b>Who is funding this work</b></span>
+<span font="bitstream charter" size="large"><b>
+1) 				14.1%
+2) Red Hat			11.6%
+3) 				  8.2%
+4) Intel			  6.6%
+5) SuSE			  4.3%
+6) IBM			  3.4%
+7) Texas Instruments	  2.5%
+8) Nokia			  2.0%
+9) Consultants		  1.6%
+10) Broadcom		  1.6%
+</b></span>
+
+-- [images/factory.jpg] [text-color=black]
+<span font="bitstream charter" size="xx-large"><b>Who is funding this work</b></span>
+<span font="bitstream charter" size="large"><b>
+1) "Amateurs"		14.1%
+2) Red Hat			11.6%
+3) Unknown individuals	  8.2%
+4) Intel			  6.6%
+5) SuSE			  4.3%
+6) IBM			  3.4%
+7) Texas Instruments	  2.5%
+8) Nokia			  2.0%
+9) Consultants		  1.6%
+10) Broadcom		  1.6%
+</b></span>
 
 -- [images/t1.jpg] [text-align=center] [duration=5.757168]
 some text
