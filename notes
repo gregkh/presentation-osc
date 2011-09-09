@@ -1,0 +1,85 @@
+
+Tumbleweed
+
+
+Focus on the Linux kernel for a minute
+
+Rate of change:
+
+  xxxx lines...
+
+  # developers
+
+  Companies participating
+
+  Why?
+
+  They all are doing stuff to Linux to support what they need from Linux.  And they do so in a way that helps everyone else out as well.
+
+  Linux is evolution, not intellegent design - Linus
+
+  Because of this, Linux works better than any other operating system ever has, for more different types of devices and processors.
+
+
+  "Linux is the only OS that will run on architectures that haven't been invented yet" - - Dr. Irving Wladawsky-Berger IBM
+
+  "Linux took over Wall Street because it moved faster than anyone else." - lots of financial developers
+
+  Enterprise distros - trying to recapture Solaris's release model.  Change every 2 years.
+
+  Great for some markets, not good for others.
+
+  "Change is the only constant" - Heraclitus (greek philosopher)
+
+  "It is not necessary to change.  Survival is not mandatory."  ~W. Edwards Deming
+
+
+  Back to openSUSE
+
+  our release cycles are now 8 months long, giving the developers time
+  to work on integrating major new features in a much more relaxed
+  manner to make things work better together.
+
+  But what about users who need the change that has happened with Linux
+  over the past 8 months (i.e. new hardware, new features, bugfixes)?
+
+  Tumbleweed is the solution for that, a "rolling" stable release based
+  on the last stable openSUSE release.
+
+  What it is not:
+    - a totally new distro
+    - a replacement for the openSUSE releases
+    - a replacement for FACTORY
+
+  What it is:
+    - an addition on top of the last openSUSE release
+    - stable packages cherry-picked from FACTORY are backported
+
+  How to use it:
+    - read wiki
+    - use one-click-install file
+    - 'zypper dup'
+    - no repo priorities
+
+  Requirements of a package to get into Tumbleweed:
+    - package is already in openSUSE:Factory
+    - maintainer agrees it can be there
+
+  How to get a package into Tumbleweed:
+    - do a submitreq for the package to openSUSE:Tumbleweed:Testing
+    - or email me, or the opensuse-factory mailing list and ask
+
+
+  How it works:
+
+    - packages are linked back to the original repository in their
+      "base", or in openSUSE:Factory, depending on the package.
+    - first checked into openSUSE:Tumbleweed:Testing and verified that
+      they work properly (i.e. my machine boots!)
+    - checked into openSUSE:Tumbleweed
+
+
+
+
+
+  "The worker is not the problem. The problem is at the top! Management!"
