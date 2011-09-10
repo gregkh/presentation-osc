@@ -89,7 +89,7 @@ Linux kernel statistics
 	— Dr. Irving Wladawsky-Berger
 </b></span>
 
--- [white] [text-color=black] [text-align=left]
+-- [images/financial-background.png] [text-color=black] [text-align=left]
 <span font="bitstream charter" size="large"><b>
 “Linux took over Wall Street because
   it moved faster than anyone else.”</b></span>
@@ -98,16 +98,19 @@ Linux kernel statistics
 </b></span>
 
 -- [white] [text-color=black] [text-align=left]
+<span font="bitstream charter" size="xx-large"><b>Enterprise distros</b></span>
+
+
 <span font="bitstream charter" size="large"><b>
-Enterprise distros - Change every 2-3 years
+					
 </b></span>
 
 -- [white] [text-color=black] [text-align=left]
-<span font="bitstream charter" size="large"<b> Enterprise distros </b></span>
- "Stable"
- infrequent change
+<span font="bitstream charter" size="xx-large"><b>Enterprise distros</b></span>
+
+
 <span font="bitstream charter" size="large"><b>
-Trying to duplicate Solaris's release model.
+Duplicating Solaris release model?
 </b></span>
 
 -- [white] [text-color=black] [text-align=left]
