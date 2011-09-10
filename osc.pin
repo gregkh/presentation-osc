@@ -128,6 +128,13 @@ Duplicating Solaris release model?
 	—W. Edwards Deming
 </b></span>
 
+
+-- [top] [text-align=center]
+<b>
+<span size='large' font="FifthLeg" foreground='green'>openSUSE
+</span>
+</b>
+
 -- [white] [text-color=black] [text-align=left]
 
 -- [images/t2.jpg] [text-align=right] [top-right]
@@ -139,23 +146,6 @@ rolling on...
 some text
 
 rolling on...
-
--
-
-  Great for some markets, not good for others.
-
-  "Change is the only constant" - Heraclitus (greek philosopher)
-
-  "It is not necessary to change.  Survival is not mandatory."  ~W. Edwards Deming
-<b><span size='large'><tt>stable_kernel_rules.txt </tt></span></b>
-
-• obviously correct and tested
-• not bigger than 100 lines
-• must fix only one thing
-• must fix a real bug
-• must fix a real problem
-• new device ids and quirks
-• must be in Linus's tree already
 
 -
 <b><span size='large'><tt>stable_kernel_rules.txt </tt></span></b>
