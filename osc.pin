@@ -53,10 +53,13 @@ Linux kernel statistics
 
 -- [white] [text-color=black]
 <span font="bitstream charter" size="large" >
-5,78 changes per hour
+5,8 changes per hour
 </span>
 
-# still going up, but slowing in the growth. 5.3 last year
+# still going up, but slowing in the growth. 5.5 last year
+#
+# Change is proportional.
+
 
 -- [white] [text-color=black]
 <span font="bitstream charter" size="large" >
@@ -82,6 +85,10 @@ Linux kernel statistics
 </b></span>
 
 # guess who #1 and #3 are
+#
+# No, not Microsoft, they were only #23
+#
+# And no, not Canonical, they were #36
 
 -- [images/factory.jpg] [text-color=black]
 <span font="bitstream charter" size="xx-large"><b>Who is funding this work</b></span>
@@ -203,6 +210,8 @@ Duplicating Solaris release model?
 </b>
 
 # Let's discuss Tumbleweed, what it is, what it is not, and how it works
+#
+# "You are bringing Gentoo to openSUSE"
 
 --
 <span size='large' font="FifthLeg" foreground='green'>Tumbleweed is:</span>
@@ -221,7 +230,7 @@ a totally new distro
 --
 <span size='large' font="FifthLeg" foreground='green'>Tumbleweed is not:</span>
 
-a replacement for FACTORY
+a replacement for Factory
 
 # packages have to be in factory first, before they get into Tumbleweed.
 
@@ -255,6 +264,12 @@ Read wiki
 
 --
 <b>How it all works</b>
+
+-- [white] [images/lifecycle-1.png]
+
+-- [white] [images/lifecycle-2.png]
+
+-- [white] [images/lifecycle-3.png]
 
 --
 openSUSE:Tumbleweed:Testing
