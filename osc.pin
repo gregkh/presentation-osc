@@ -7,14 +7,15 @@
 
 - [top] [text-align=center][font=FifthLeg 190px]
 <b>
-<span size='large' foreground='green'>openSUSE
-Tumbleweed</span>
+<span size='large' foreground='green'>openSUSE Tumbleweed</span>
+<span font="bitstream charter bold " size="large">&amp;
+Linux kernel stuff</span>
 </b>
 
-
-<span font="Sans Bold" foreground='yellow' size='x-small'>Greg Kroah-Hartman</span>
+<span font="Bitstream Charter Bold" foreground='yellow' size='x-small'>Greg Kroah-Hartman</span>
 <span font="Bold" size='xx-small'><tt>gregkh@suse.de</tt></span>
 
+-- [images/tw.jpg] [text-align=right] [top-right]
 
 -- [white] [text-color=black]
 <span font="bitstream charter" size="large" >
@@ -80,21 +81,23 @@ Linux kernel statistics
 
 -- [images/ols_2006_keynote_08.jpg]
 
--- [images/ibm-background.jpg] [text-color=black] [text-align=left]
+-- [stretch] [images/ibm-background.jpg] [text-color=black] [text-align=left]
 <span font="bitstream charter" size="large"><b>
 “Linux is the only OS that will
  run on architectures that haven’t
  been invented yet”</b></span>
 <span font="bitstream charter"><b>
-	— Dr. Irving Wladawsky-Berger
+	– Dr. Irving Wladawsky-Berger
 </b></span>
 
--- [images/financial-background.png] [text-color=black] [text-align=left]
-<span font="bitstream charter" size="large"><b>
-“Linux took over Wall Street because
+
+-- [stretch] [images/heraclitus-background.png] [text-color=white] [top-right] [text-align=right]
+
+-- [stretch] [images/financial-background.png] [text-color=black] [text-align=left]
+<span font="bitstream charter" size="x-large"><b>“Linux took over Wall Street because
   it moved faster than anyone else.”</b></span>
 <span font="bitstream charter"><b>
-	— lots of financial CIOs
+	– lots of financial CIOs
 </b></span>
 
 -- [white] [text-color=black] [text-align=left]
@@ -115,45 +118,33 @@ Duplicating Solaris release model?
 
 -- [white] [text-color=black] [text-align=left]
 <span font="bitstream charter" size="large"><b>
-"Change is the only constant"</b></span>
-<span font="bitstream charter"><b>
-	— Heraclitus (greek philosopher)
-</b></span>
-
--- [white] [text-color=black] [text-align=left]
-<span font="bitstream charter" size="large"><b>
 “It is not necessary to change.
  Survival is not mandatory.”</b></span>
 <span font="bitstream charter"><b>
-	—W. Edwards Deming
+	– W. Edwards Deming
 </b></span>
-
-
--- [top] [text-align=center]
-<b>
-<span size='large' font="FifthLeg" foreground='green'>openSUSE
-</span>
-</b>
 
 -- [white] [text-color=black] [text-align=left]
 
--- [images/t2.jpg] [text-align=right] [top-right]
-some text
+-- [top] [text-align=center]
+<b>
+<span size='large' font="FifthLeg" foreground='green'>Tumbleweed
+</span>
+</b>
 
-rolling on...
+--
+<span size='large' font="FifthLeg" foreground='green'>Tumbleweed is not:</span>
 
--- [images/t3.jpg] [text-align=right] [top-left]
-some text
+a totally new distro
+--
+<span size='large' font="FifthLeg" foreground='green'>Tumbleweed is not:</span>
 
-rolling on...
+a replacement for FACTORY
+--
+<span size='large' font="FifthLeg" foreground='green'>Tumbleweed does not:</span>
 
--
-<b><span size='large'><tt>stable_kernel_rules.txt </tt></span></b>
-
-• "Cc: &lt;stable@kernel.org&gt;" to the 
-    Signed-off-by: area of the patch
-•  send git commit id to stable@kernel.org
-
+Replace openSUSE releases
+--
 -
 <b><span size='large'><b>2 types of stable kernels</b></span></b>
 
