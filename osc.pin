@@ -271,23 +271,20 @@ Read wiki
 
 -- [white] [images/lifecycle-3.png]
 
---
-openSUSE:Tumbleweed:Testing
-openSUSE:Tumbleweed
+-- [white] [images/lifecycle-4.png]
 
--- [center]
+-- [white] [images/lifecycle-5.png]
+
+-- [white] [images/lifecycle-6.png]
+
+-- [white] [images/lifecycle-7.png]
+
+--
 <tt>https://github.com/gregkh/tumbleweed</tt>
 
--
-<b><span size='large'>Longterm kernel future</span></b>
+- [black][images/penguins.jpg][unscaled]
 
-• One new -longterm kernel a year
-• maintained for two years
-• same stable kernel rules apply
+# Everyone likes penguins
 
-#- [images/stable_kernel_releases.png]empty slide
-
-- [images/penguins.jpg][unscaled]empty slide
-
-- [black] [font=Sans 100px]
-ありがとう
+#- [black] [font=Sans 100px]
+#ありがとう
