@@ -133,6 +133,10 @@ Duplicating Solaris release model?
 </b>
 
 --
+<span size='large' font="FifthLeg" foreground='green'>Tumbleweed is:</span>
+
+<span font="FifthLeg">openSUSE</span> with the latest stable packages
+--
 <span size='large' font="FifthLeg" foreground='green'>Tumbleweed is not:</span>
 
 a totally new distro
@@ -143,78 +147,27 @@ a replacement for FACTORY
 --
 <span size='large' font="FifthLeg" foreground='green'>Tumbleweed does not:</span>
 
-Replace openSUSE releases
+Replace <span font="FifthLeg">openSUSE</span> releases
 --
--
-<b><span size='large'><b>2 types of stable kernels</b></span></b>
+<span size='large' font="FifthLeg" foreground='green'>Using Tumbleweed:</span>
 
-• "Normal" Stable
-• Longterm
+Read wiki
+--
+<span size='large' font="FifthLeg" foreground='green'>Using Tumbleweed:</span>
 
--
-<b><span size='large'>"Normal" Stable</span></b>
+<tt>zypper dup</tt>
+--
+<b>No repo priorities</b>
 
-• Supported until a short time
-   (3-4 months)
-• Usually next kernel release + 1
-• Users must move on when dropped
-• Quicker release cycles
+--
+<b>How it all works</b>
 
--
-<b><span size='large'>Longterm</span></b>
+--
+openSUSE:Tumbleweed:Testing
+openSUSE:Tumbleweed
 
-• Supported for years
-• Users know well in advance when
-   to move on.
-• Longer release cycles
-
--
-<b><span size='large'>2.6.27.y - longterm</span></b>
-
-• "Enterprise" linux kernel
-• will be supported indefinitely
-• A 2.4 kernel replacement
-• maintained by Willy Tarreau
-  (community)
-
--
-<b><span size='large'>2.6.32.y - longterm</span></b>
-
-• "Enterprise" linux kernel
-• will be supported indefinitely
-• maintained by Greg K-H (SUSE)
-
--
-<b><span size='large'>2.6.33.y - Stable</span></b>
-
-• "Real-time" Linux kernel
-• Will be supported until -rt
-   moves to a newer kernel
-• Maintained by Greg K-H (SUSE)
-
--
-<b><span size='large'>2.6.34.y - Longterm</span></b>
-
-• "Embedded" Linux kernel
-• Unknown support length
-• Maintained by Paul Gortmaker
-  (WindRiver)
-
--
-<b><span size='large'>2.6.35.y - Longterm</span></b>
-
-• "Embedded" Linux kernel
-• Unknown support length
-• Maintained by Andi Kleen
-  (Intel)
-
--
-<b><span size='large'>3.0.y - Stable</span></b>
-
-• Normal stable kernel
-• supported until 3.1 is released
-• Maintained by Greg K-H
-  (community)
+-- [center]
+<tt>https://github.com/gregkh/tumbleweed</tt>
 
 -
 <b><span size='large'>Longterm kernel future</span></b>
