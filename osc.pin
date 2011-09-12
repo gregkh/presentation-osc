@@ -111,8 +111,8 @@ Linux kernel statistics
 #
 # Why contribute?
 # - paid to do so (or business model, Red Hat, SUSE)
-# - support their hardware (Intel, IBM, etc.)
-# - they rely on Linux, so they contribute to ensure that it doesn't change in ways that would not benefit them (Oracle, Google, Microsoft.)
+# - support their hardware (Intel, IBM, TI, Microsoft, etc.)
+# - they rely on Linux, so they contribute to ensure that it doesn't change in ways that would not benefit them (Nokia, Oracle, Google.)
 
 -- [white] [text-color=black]
 <span font="bitstream charter" size="xx-large">
